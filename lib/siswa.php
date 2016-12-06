@@ -1,5 +1,7 @@
 <?php
 
+//sesuatu dalam perubahan di GIT
+
 require_once('DBClass.php');
 require_once('m_siswa.php');
 
